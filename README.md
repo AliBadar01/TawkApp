@@ -39,11 +39,7 @@ Activities, Fragments, RecyclerViews, and the Manifest.
 # MVVM with ViewBinding and Hilt
 
 ## What is MVVM?
-	MVVM is a flexible guide and set of libraries used to standardize an
-app's architecture. What this means is that your code is split into
-distinct components that hold specific parts of code in specific areas.
-These parts then interact with each other in a set order. These parts
-are:
+	MVVM is a flexible guide and set of libraries used to standardize an app's architecture. What this means is that your code is split into distinct components that hold specific parts of code in specific areas.These parts then interact with each other in a set order. These parts are:
 
 #### Model
 The Model consists of three parts
