@@ -10,7 +10,7 @@
 - [Other Tools](#other-tools)
 - [View Binding](#view-binding)
 - [Hilt](#hilt)
-  - [Navigation](#navigation)
+- [Navigation](#navigation)
 
 
 # Introduction
