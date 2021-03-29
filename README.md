@@ -7,8 +7,9 @@
   - [How it Works](#how-it-works)
   - [Room Database](#room-database)
   - [Repositories](#repositories)
-- [Code Style Guide](#code-style-guide)
 - [Other Tools](#other-tools)
+- [View Binding](#view-binding)
+- [Hilt](#hilt)
   - [Navigation](#navigation)
 
 
@@ -133,9 +134,14 @@ to make those calls.
 ## Final Thoughts on MVVM
 That's it. This app is ready to be released or expanded on. You could
 add more endpoints, add new database operations, add new screens, add
-new data classes, add whole new features, whatever. Just follow the
-patterns seen here when doing so as best you can.
+new data classes, add whole new features.
 
+# View Binding
+View binding is a feature that allows you to more easily write code that interacts with views. Once view binding is enabled in a module, it generates a binding class for each XML layout file present in that module.
+
+
+# Hilt
+Hilt is an opinionated dependency injection library for Android that reduces the boilerplate of using manual DI in your project. Doing manual dependency injection requires constructing every class and its dependencies by hand and using containers to reuse and manage dependencies.
 # Other Tools
 
 ## Navigation
@@ -143,3 +149,5 @@ This app uses the Navigation Component from Jetpack. More can be read
 about it from the [official documentation](https://developer.android.com/guide/navigation/navigation-getting-started) from Google, as well a
 [simple tutorial](https://codelabs.developers.google.com/codelabs/android-navigation/#0)
 to show you the basics.
+
+
