@@ -7,10 +7,10 @@
   - [How it Works](#how-it-works)
   - [Room Database](#room-database)
   - [Repositories](#repositories)
-- [Other Tools](#other-tools)
 - [View Binding](#view-binding)
 - [Hilt](#hilt)
 - [Navigation](#navigation)
+- [Other Tools](#other-tools)
 
 
 # Introduction
