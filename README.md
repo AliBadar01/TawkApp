@@ -9,8 +9,8 @@
   - [Repositories](#repositories)
 - [View Binding](#view-binding)
 - [Hilt](#hilt)
-- [Navigation](#navigation)
 - [Other Tools](#other-tools)
+  - [Navigation](#navigation)
 
 
 # Introduction
