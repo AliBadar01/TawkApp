@@ -147,7 +147,6 @@ Hilt is an opinionated dependency injection library for Android that reduces the
 ## Navigation
 This app uses the Navigation Component from Jetpack. More can be read
 about it from the [official documentation](https://developer.android.com/guide/navigation/navigation-getting-started) from Google, as well a
-[simple tutorial](https://codelabs.developers.google.com/codelabs/android-navigation/#0)
-to show you the basics.
+simple tutorial to show you the basics.
 
 
